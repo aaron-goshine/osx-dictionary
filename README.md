@@ -3,7 +3,7 @@
 ## INSTALL
 
 ```
-brew install https://raw.githubusercontent.com/takumakei/osx-dictionary/master/osx-dictionary.rb --HEAD
+brew install https://raw.githubusercontent.com/aaron-goshine/osx-dictionary/master/osx-dictionary.rb --HEAD
 ```
 
 ## USAGE
